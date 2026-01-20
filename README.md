@@ -49,7 +49,9 @@
 ---
 
 ## 📌 Projects
-- **[Chess]** – Chess game made in Java and JavaFx 
+- **[Chess]** – Chess game made in Java and JavaFx
+(screenshots/Chess_Screenshot.png)
+
 - **[OthelloIA]** – Othello game made in Java using the MinMax and the Alpha–beta pruning algorithm 
 - **[Projet_Web_Cocktail]** – Academic project developed by Romaric Henry, showcasing a first hands-on experience with PHP, JavaScript, and backend database integration.
 
