@@ -15,26 +15,26 @@
 <p align="left">
    <strong><u> Languages: </u></strong> <br>
 
-   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" width="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/>
+   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+   ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+   ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+   ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+   ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
+   ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+
 
    <strong><u> Database: </u></strong> <br>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
+   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+
    
 </p>
 
-<p align="left">
-   <strong><u> Framework: </u></strong> <br>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original-wordmark.svg" width="40" />       
+   ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
+   ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
+   ![JavaFX](https://img.shields.io/badge/JavaFX-007396?logo=java&logoColor=white)
+   
                     
 </p>
 
