@@ -13,7 +13,8 @@
 ## 🛠️ Skills & Technologies
 
 <p align="left">
-   **Languages:** <br>
+   <strong>**Languages:**</strong> 
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" />
