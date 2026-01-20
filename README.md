@@ -11,7 +11,16 @@
 ---
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Python, Java, C, Scala 
+
+<p align="left">
+
+</p>
+
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+
+- **Languages:** Python, Java, C, Scala, R
+- **Framework** JavaFx, Symfony
 - **Web:** HTML, CSS, PHP
 - **Databases:** Postgresql
 - **Tools:** GitHub, VS Code, Linux
