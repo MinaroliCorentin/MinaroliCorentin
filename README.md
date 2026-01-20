@@ -31,6 +31,8 @@
    
 </p>
 
+   <strong><u> Framework: </u></strong> <br>
+
    ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
    ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
    ![JavaFX](https://img.shields.io/badge/JavaFX-007396?logo=java&logoColor=white)
@@ -41,10 +43,11 @@
 <p align="left">
 
    <strong><u> Tools: </u></strong> <br>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" />
+   ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
+   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+
                           
 </p>
 
