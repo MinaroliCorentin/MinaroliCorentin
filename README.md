@@ -23,7 +23,7 @@
    ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
    ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
    ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-   ![Assembleur MIPS](https://img.shields.io/badge/Assembleur-MIPS-blue)
+   ![Assembly MIPS](https://img.shields.io/badge/Assembly-MIPS-blue)
    ![VHDL](https://img.shields.io/badge/Language-VHDL-purple)
 
 
