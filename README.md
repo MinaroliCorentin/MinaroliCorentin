@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Corentin
 
-<!--
-**MinaroliCorentin/MinaroliCorentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **3rd-year Computer Science student** with a strong interest in new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+- 📚 Currently studying **Computer Science (3rd year)**
+- 🚀 Passionate about **programming, hardware, network**
+- 🌱 Always learning and improving my technical skills
+---
+
+## 🛠️ Skills & Technologies
+- **Languages:** Python, Java, C, Scala 
+- **Web:** HTML, CSS, PHP
+- **Databases:** Postgresql
+- **Tools:** GitHub, VS Code, Linux
+
+---
+
+## 📌 Projects
+- 🔹 **[Chess]** – Chess game made in Java and JavaFx 
+- 🔹 **[OthelloIA]** – Othello game made in Java using the MinMax and the Alpha–beta pruning algorithm 
+- 🔹 **[Projet_Web_Cocktail]** – Academic project developed by Romaric Henry, showcasing a first hands-on experience with PHP, JavaScript, and backend database integration.
+---
+
+## 🌱 Currently Learning
+- Advanced algorithms and data structures
+- Scala
+- Software architecture and best practices
+- Unsupervised learning
+- Symfony framework
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/yourusername
+
+
+---
+
+⭐ Feel free to explore my projects and reach out if you'd like to collaborate!
