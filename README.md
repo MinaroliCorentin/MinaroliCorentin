@@ -31,7 +31,7 @@
 <p align="left">
    <strong><u> Framework: </u></strong> <br>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original-wordmark.svg" width="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original-wordmark.svg" width="40" />       
                     
 </p>
 
