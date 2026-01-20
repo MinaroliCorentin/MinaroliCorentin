@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Corentin
+<img width="1845" height="894" alt="ProjetCocktail_Screenshot" src="https://github.com/user-attachments/assets/be8804c8-14d9-4607-b695-83e309d44eff" /># 👋 Hi, I'm Corentin
 
 🎓 I'm a **3rd-year Computer Science student** with a strong interest in new technologies.
 
