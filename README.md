@@ -24,19 +24,15 @@
    ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
    ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 
-
    <strong><u> Database: </u></strong> <br>
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
-   
 </p>
 
    <strong><u> Framework: </u></strong> <br>
-
    ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
    ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
    ![JavaFX](https://img.shields.io/badge/JavaFX-007396?logo=java&logoColor=white)
-   
                     
 </p>
 
@@ -47,7 +43,6 @@
    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
    ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-
                           
 </p>
 
