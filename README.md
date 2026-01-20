@@ -22,7 +22,7 @@
    ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
    ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
    ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
-   ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+   ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
    ![Assembly MIPS](https://img.shields.io/badge/Assembly-MIPS-blue)
    ![VHDL](https://img.shields.io/badge/VHDL-purple)
 
