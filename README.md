@@ -24,7 +24,7 @@
    ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
    ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
    ![Assembly MIPS](https://img.shields.io/badge/Assembly-MIPS-blue)
-   ![VHDL](https://img.shields.io/badge/Language-VHDL-purple)
+   ![VHDL](https://img.shields.io/badge/VHDL-purple)
 
 
    <strong><u> Database: </u></strong> <br>
