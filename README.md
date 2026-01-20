@@ -13,7 +13,7 @@
 ## 🛠️ Skills & Technologies
 
 <p align="left">
-   <strong><mark> Languages: </mark></strong> <br>
+   <strong><u> Languages: </u></strong> <br>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" />
@@ -23,13 +23,13 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/>
 
-   <strong><mark> Database: </mark></strong> <br>
+   <strong><u> Database: </u></strong> <br>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
    
 </p>
 
 <p align="left">
-   <strong><mark> Framework: </mark></strong> <br>
+   <strong><u> Framework: </u></strong> <br>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" width="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original-wordmark.svg" width="40" />
                     
@@ -37,7 +37,7 @@
 
 <p align="left">
 
-   <strong><mark> Tools: </mark></strong> <br>
+   <strong><u> Tools: </u></strong> <br>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" />
