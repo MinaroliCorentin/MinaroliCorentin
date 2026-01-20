@@ -46,7 +46,7 @@
    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
    ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-   ![UML](https://img.shields.io/badge/UML-brightgreen)
+   ![UML](https://img.shields.io/badge/-UML-FABD14?style=flat&logo=uml&logoColor=white")
 
                           
 </p>
