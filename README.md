@@ -15,17 +15,17 @@
 <p align="left">
    <strong><u> Languages: </u></strong> <br>
    
-   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-   ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-   ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-   ![Assembly MIPS](https://img.shields.io/badge/Assembly--MIPS-0000FF?style=for-the-badge)
-   ![VHDL](https://img.shields.io/badge/VHDL-800080?style=for-the-badge)
+   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+   ![PYTHON](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+   ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+   ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+   ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+   ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
+   ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+   ![Assembly MIPS](https://img.shields.io/badge/Assembly--MIPS-0000FF)
+   ![VHDL](https://img.shields.io/badge/VHDL-800080)
 
 
    <strong><u> Database: </u></strong> <br>
