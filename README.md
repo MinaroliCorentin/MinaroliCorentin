@@ -26,6 +26,7 @@
    ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
    ![Assembly MIPS](https://img.shields.io/badge/Assembly--MIPS-0000FF)
    ![VHDL](https://img.shields.io/badge/VHDL-800080)
+   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
    <strong><u> Database: </u></strong> <br>
