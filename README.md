@@ -16,7 +16,7 @@
    <strong><u> Languages: </u></strong> <br>
 
    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-   ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
    ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
    ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
