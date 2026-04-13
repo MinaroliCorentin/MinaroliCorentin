@@ -71,10 +71,7 @@
 
 ## 🌱 Currently Learning
 - Advanced algorithms and data structures
-- Scala
 - Software architecture and best practices
-- Unsupervised learning
-- Symfony framework
 
 ---
 
