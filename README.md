@@ -1,84 +1,87 @@
-👋 Hi, I'm Corentin
+# 👋 Hi, I'm Corentin
 
-🎓 I'm a **3rd-year Computer Science student** with a strong interest in new technologies.
+🎓 I'm a **Master 1 Computer Science student** with a strong interest in new technologies and software development.
 
 ---
 
 ## 💻 About Me
-- 📚 Currently studying **Computer Science (3rd year)**
-- 🚀 Passionate about **programming, hardware, network**
+- 📚 Currently studying **Computer Science (Master 1)**
+- 🚀 Passionate about **programming, hardware, and networking**
 - 🌱 Always learning and improving my technical skills
+
 ---
 
 ## 🛠️ Skills & Technologies
 
-<p align="left">
-   <strong><u> Languages: </u></strong> <br>
-   
-   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-   ![PYTHON](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
-   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-   ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-   ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-   ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
-   ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
-   ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-   ![Assembly MIPS](https://img.shields.io/badge/Assembly--MIPS-0000FF)
-   ![VHDL](https://img.shields.io/badge/VHDL-800080)
-   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-   ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+### 💻 Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Assembly MIPS](https://img.shields.io/badge/Assembly--MIPS-00599C?style=for-the-badge&logo=gnu&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-003366?style=for-the-badge&logo=processor&logoColor=white)
 
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-   <strong><u> Database: </u></strong> <br>
-   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+### ⚙️ Frameworks & Libraries
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
-</p>
-
-   <strong><u> Framework: </u></strong> <br>
-   ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
-   ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
-   ![JavaFX](https://img.shields.io/badge/JavaFX-007396?logo=java&logoColor=white)
-                    
-</p>
-
-<p align="left">
-
-   <strong><u> Tools: </u></strong> <br>
-   ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
-   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-   ![UML](https://img.shields.io/badge/-UML-FABD14?style=flat&logo=uml&logoColor=white")
-
-                          
-</p>
+### 🧰 Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
 ## 📌 Projects
-- **[Chess]** – Chess game made in Java and JavaFx
-![Home page](screenshots/Chess_Screenshot.png)
-<br><br>
-- **[OthelloIA]** – Othello game made in Java using the MinMax and the Alpha–beta pruning algorithm
-![Home page](screenshots/OthelloIA_Screenshot.png)
-<br><br>
-- **[Projet_Web_Cocktail]** – Academic project developed with Romaric Henry, showcasing a first hands-on experience with PHP, JavaScript, and backend database integration.
-![Home page](screenshots/ProjetCocktail_Screenshot.png)
 
+### ♟️ Chess Game
+> Chess game made in Java and JavaFX.
+
+<p align="center">
+  <img src="screenshots/Chess_Screenshot.png" alt="Chess Screenshot" width="800px" style="border-radius: 8px;" />
+</p>
+
+---
+
+### 🤖 Othello AI
+> Othello game developed in Java using MinMax and Alpha–Beta pruning algorithms.
+
+<p align="center">
+  <img src="screenshots/OthelloIA_Screenshot.png" alt="Othello AI Screenshot" width="800px" style="border-radius: 8px;" />
+</p>
+
+---
+
+### 🍹 Web Project - Cocktail
+> Academic project developed with Romaric Henry, showcasing PHP, JavaScript, and backend database integration.
+
+<p align="center">
+  <img src="screenshots/ProjetCocktail_Screenshot.png" alt="Cocktail Project Screenshot" width="800px" style="border-radius: 8px;" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 - Advanced algorithms and data structures
-- Software architecture and best practices
+- Software architecture and design patterns
 
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/MinaroliCorentin
-
+- **GitHub:** [MinaroliCorentin](https://github.com/MinaroliCorentin)
 
 ---
 
-⭐ Feel free to explore my projects and reach out if you'd like to collaborate!
+⭐ *Feel free to explore my repositories and reach out if you'd like to collaborate!*
